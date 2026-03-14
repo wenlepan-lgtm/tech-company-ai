@@ -1,5 +1,15 @@
 # HEARTBEAT.md
 
-# Keep this file empty (or with only comments) to skip heartbeat API calls.
+## 每日任务
 
-# Add tasks below when you want the agent to check something periodically.
+- [ ] 早上9点：汇报团队状态（如果现在是早上9点附近）
+- [ ] 检查项目进度
+- [ ] 汇报阻塞项
+
+## 每日汇报内容
+
+发送给老板：
+- 今日在岗员工
+- 每个员工使用的工具和模型
+- 当前项目状态
+- 今日重点任务
